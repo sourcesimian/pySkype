@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="pyskype",
-    version="0.1",
+    version="0.2",
     description="Skype Automation",
     author="Source Simian",
     url='https://github.com/sourcesimian/pySkype',
